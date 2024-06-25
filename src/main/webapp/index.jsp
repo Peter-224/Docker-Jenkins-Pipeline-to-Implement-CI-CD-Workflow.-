@@ -20,11 +20,11 @@
             <a class="w3-bar-item w3-button w3-border-bottom w3-large" href="#"><img src="https://www.w3schools.com/images/w3schools.png" style="width:80%;"></a>
             <a class="w3-bar-item w3-button w3-hide-large w3-large" href="javascript:void(0)" onclick="w3_close()">Close <i class="fa fa-remove"></i></a>
             <a class="w3-bar-item w3-button w3-teal" href="#">Peterbathich@199</a>
-            <a class="w3-bar-item w3-button" href="#">Link 1</a>
-            <a class="w3-bar-item w3-button" href="#">Link 2</a>
-            <a class="w3-bar-item w3-button" href="#">Link 3</a>
-            <a class="w3-bar-item w3-button" href="#">Link 4</a>
-            <a class="w3-bar-item w3-button" href="#">Link 5</a>
+            <a class="w3-bar-item w3-button" href="#">Docker image</a>
+            <a class="w3-bar-item w3-button" href="#">Docker File </a>
+            <a class="w3-bar-item w3-button" href="#">Jenkins</a>
+            <a class="w3-bar-item w3-button" href="#">mayven</a>
+            <a class="w3-bar-item w3-button" href="#">Others</a>
             <div>
                 <a class="w3-bar-item w3-button" onclick="myAccordion('demo')" href="javascript:void(0)">Dropdown <i class="fa fa-caret-down"></i></a>
                 <div id="demo" class="w3-hide">
@@ -41,17 +41,18 @@
                     <span id="myIntro" class="w3-hide">W3.CSS: Introduction</span></p>
                 </div>                  
                 <header class="w3-container w3-theme" style="padding:64px 32px">
-                    <h1 class="w3-xxxlarge">W3.CSS</h1>
+                    <h1 class="w3-xxxlarge">Peterbathich@199</h1>
                 </header>                  
                 <div class="w3-container" style="padding:32px">                  
                     <h2>What is DevOps??</h2>                  
-                    <p>DevOps is the combination of cultural philosophies, practices, and tools that increases an organization’s ability to deliver applications and services</p>                  
+                    <p>DevOps is the combination of cultural philosophies, practices, and tools that increases an organization ability to deliver applications and services</p>                  
+                    <h2>key features of DevOps architecture</h2>
                     <ul class="w3-leftbar w3-theme-border" style="list-style:none">
-                        <li>Smaller and faster than other CSS frameworks.</li>
-                        <li>Easier to learn, and easier to use than other CSS frameworks.</li>
-                        <li>Uses standard CSS only (No jQuery or JavaScript library).</li>
+                        <li>Automation</li>
+                        <li>Collaboration frameworks.</li>
+                        <li>Integration</li>
                         <li>Speeds up mobile HTML apps.</li>
-                        <li>Provides CSS equality for all devices. PC, laptop, tablet, and mobile:</li>
+                        <li> Configuration management</li>
                         <li>Adding more stuff to the list</li>
                         <li>And more text</li>
                     </ul>
