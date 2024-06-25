@@ -19,7 +19,7 @@
         <nav class="w3-sidebar w3-bar-block w3-collapse w3-animate-left w3-card" style="z-index:3;width:250px;" id="mySidebar">
             <a class="w3-bar-item w3-button w3-border-bottom w3-large" href="#"><img src="https://www.w3schools.com/images/w3schools.png" style="width:80%;"></a>
             <a class="w3-bar-item w3-button w3-hide-large w3-large" href="javascript:void(0)" onclick="w3_close()">Close <i class="fa fa-remove"></i></a>
-            <a class="w3-bar-item w3-button w3-teal" href="#">peter</a>
+            <a class="w3-bar-item w3-button w3-teal" href="#">Peterbathich@199</a>
             <a class="w3-bar-item w3-button" href="#">Link 1</a>
             <a class="w3-bar-item w3-button" href="#">Link 2</a>
             <a class="w3-bar-item w3-button" href="#">Link 3</a>
@@ -44,8 +44,8 @@
                     <h1 class="w3-xxxlarge">W3.CSS</h1>
                 </header>                  
                 <div class="w3-container" style="padding:32px">                  
-                    <h2>What is W3.CSS?</h2>                  
-                    <p>W3.CSS is a modern CSS framework with built-in responsiveness: !!!</p>                  
+                    <h2>What is DevOps??</h2>                  
+                    <p>DevOps is the combination of cultural philosophies, practices, and tools that increases an organization’s ability to deliver applications and services</p>                  
                     <ul class="w3-leftbar w3-theme-border" style="list-style:none">
                         <li>Smaller and faster than other CSS frameworks.</li>
                         <li>Easier to learn, and easier to use than other CSS frameworks.</li>
